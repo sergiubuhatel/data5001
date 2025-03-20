@@ -3,3 +3,5 @@ env/
 Capstone_Project_Reference_Notebook_Loan_Default_Prediction_Full_Code.ipynb
 *.html
 .idea/
+*.joblib
+*.doc*
